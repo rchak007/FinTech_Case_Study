@@ -4,7 +4,7 @@
 
 
 
-![alt text](sofi title.jpg)
+![alt text](sofi_title.jpg)
 
 * (((((When was the company incorporated?
 * (((Who are the founders of the company?
@@ -95,7 +95,7 @@ SoFi is on track to exceed 3 million members for 2021. This would be a year-over
 
 
 
-![alt text](3M members.png)
+![alt text](3M_members.png)
 
 
 
@@ -135,7 +135,7 @@ SoFi is on track to exceed 3 million members for 2021. This would be a year-over
 
 [Sofi's Competitors](https://craft.co/sofi/competitors)
 
-![alt text](Sofi competitors.jpg)
+![alt text](Sofi_competitors.jpg)
 
 
 
