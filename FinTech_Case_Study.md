@@ -73,7 +73,7 @@ The technology platform constitutes primarily Galileo Financial Technologies, ac
 
 
 
-![alt text](sofi tech stack.jpg)
+![alt text](sofi_tech_stack.jpg)
 
 [Source](https://craft.co/sofi)
 
