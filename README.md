@@ -27,39 +27,39 @@ During the crisis of 2008, it was apparent banking was broken. Not only were ban
    In September 2012, SoFi raised $77.2 million, led by [Baseline Ventures](https://en.wikipedia.org/wiki/Baseline_Ventures), with participation from DCM and [Renren](https://en.wikipedia.org/wiki/Renren).[[4\]](https://en.wikipedia.org/wiki/SoFi#cite_note-4)[[5\]](https://en.wikipedia.org/wiki/SoFi#cite_note-5) Additional investors included [Ron Suber](https://en.wikipedia.org/wiki/Ron_Suber).[[6\]](https://en.wikipedia.org/wiki/SoFi#cite_note-6)
 
    On October 2, 2013, SoFi announced that it had raised $500 million in debt and equity to fund and refinance student loans. This total funding amount came from $90 million in equity, $151 million in debt, and $200 million in bank participations, with the remaining capital from alumni and community investors.[[7\]](https://en.wikipedia.org/wiki/SoFi#cite_note-7) The $151 million in debt includes a $60 million line of credit from Morgan Stanley, and a $41 million line of credit from Bancorp.[[8\]](https://en.wikipedia.org/wiki/SoFi#cite_note-8)[[9\]](https://en.wikipedia.org/wiki/SoFi#cite_note-9)[[10\]](https://en.wikipedia.org/wiki/SoFi#cite_note-10)
-  
+
    As of September 2013, SoFi had funded $200 million in loans to 2500 borrowers at the company's 100 eligible schools.[[11\]](https://en.wikipedia.org/wiki/SoFi#cite_note-11)
-  
+
    In November 2013, SoFi announced a deal with [Barclays](https://en.wikipedia.org/wiki/Barclays) and [Morgan Stanley](https://en.wikipedia.org/wiki/Morgan_Stanley) to create a bond backed by [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer_lending) student loans, and this would create the first [securitization](https://en.wikipedia.org/wiki/Securitization) of these loans to receive a [credit rating](https://en.wikipedia.org/wiki/Credit_rating).[[12\]](https://en.wikipedia.org/wiki/SoFi#cite_note-12)
-  
+
    ###### 2014–18
-  
+
    In April 2014, SoFi raised $80 million in a [Series C](https://en.wikipedia.org/wiki/Series_C) round led by Discovery Capital Management with participation from [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel), Wicklow Capital, and existing investors. Money was raised to expand the footprint of the company's student loan refinancing business and to extend into new products like mortgages and personal loans.[[13\]](https://en.wikipedia.org/wiki/SoFi#cite_note-13)
-  
+
    In February 2015, the company announced a $200 million funding round led by [Third Point Management](https://en.wikipedia.org/wiki/Third_Point_Management). That same month, the company officially began offering personal loans.[[14\]](https://en.wikipedia.org/wiki/SoFi#cite_note-14)[[15\]](https://en.wikipedia.org/wiki/SoFi#cite_note-15) By March 2015, the company was offering mortgages in more than 20 states, up from its initial launch that included under ten states in October, 2014.[[16\]](https://en.wikipedia.org/wiki/SoFi#cite_note-16)[[17\]](https://en.wikipedia.org/wiki/SoFi#cite_note-17) By April 2015, the company had funded more than $2 billion in loans, including student loan refinancing, mortgages, personal loans and MBA loans. To celebrate its $2 billion milestone, SoFi announced a contest, #2BillionTogether, to pay off one of its members student loans.[[18\]](https://en.wikipedia.org/wiki/SoFi#cite_note-18) In September 2015, Former SEC Chairman Arthur Levitt was added as an advisor. The firm also raised a $1 billion round of investment from [SoftBank](https://en.wikipedia.org/wiki/SoftBank)[[19\]](https://en.wikipedia.org/wiki/SoFi#cite_note-19) and said it had funded $4 billion in loans.[[20\]](https://en.wikipedia.org/wiki/SoFi#cite_note-20)
-  
+
    In May 2016, SoFi became the first startup online lender to receive a triple-A rating from [Moody's](https://en.wikipedia.org/wiki/Moody's_Investors_Service).[[21\]](https://en.wikipedia.org/wiki/SoFi#cite_note-21) In September 2016, SoFi launched SoFi at Work, an employee benefit program to reduce student debt and build financial wellness, and announced it has more than 600 corporate partners.[[22\]](https://en.wikipedia.org/wiki/SoFi#cite_note-22) As of October 2016, SoFi has funded more than $12 billion in total loan volume and has 175,000 members.[[23\]](https://en.wikipedia.org/wiki/SoFi#cite_note-23) In February 2017, it was announced that Social Finance Inc. raised an additional $500 million from an investor group led by [Silver Lake](https://en.wikipedia.org/wiki/Silver_Lake_Partners), and also including SoftBank, to help support global expansion.[[24\]](https://en.wikipedia.org/wiki/SoFi#cite_note-Rudegeair-24)[[25\]](https://en.wikipedia.org/wiki/SoFi#cite_note-25)
-  
+
    On September 11, 2017, Chief Executive Mike Cagney announced he would resign by the end of year due to allegations of sexual harassment and skirting risk and compliance controls.[[26\]](https://en.wikipedia.org/wiki/SoFi#cite_note-26) Announced January 23, 2018, [Anthony Noto](https://en.wikipedia.org/wiki/Anthony_Noto) resigned from his position as COO of [Twitter](https://en.wikipedia.org/wiki/Twitter), to become the CEO of Social Finance.[[27\]](https://en.wikipedia.org/wiki/SoFi#cite_note-wsj-spot-27)[[28\]](https://en.wikipedia.org/wiki/SoFi#cite_note-28) In April 2018, SoFi announced that Michelle Gil, who previously worked at [TPG](https://en.wikipedia.org/wiki/TPG_Capital) and [Goldman Sachs](https://en.wikipedia.org/wiki/Goldman_Sachs), was joining the company as Chief Financial Officer.[[29\]](https://en.wikipedia.org/wiki/SoFi#cite_note-29)
-  
+
    In October 2018, SoFi settled [FTC](https://en.wikipedia.org/wiki/Federal_Trade_Commission) charges, agreeing to stop making false claims about savings from student loan refinancing. The FTC alleged that SoFi had been making such false claims since April 2016.[[30\]](https://en.wikipedia.org/wiki/SoFi#cite_note-30) In February 2019, the FTC announced its approval of the final consent order under which SoFI is prohibited from misrepresenting to consumers how much money consumers will save or have saved using its products and from making any claims about any such savings unless the claims are backed up with reliable evidence.[[31\]](https://en.wikipedia.org/wiki/SoFi#cite_note-31) The order expires on February 22, 2039, or 20 years from the Commission's most recent date of filing a complaint in federal court reporting any misconduct that occurs later.[[32\]](https://en.wikipedia.org/wiki/SoFi#cite_note-32)
-  
+
    ###### 2019
-  
+
    In May 2019, SoFi closed $500 million in a single funding round led by [Qatar Investment Authority](https://en.wikipedia.org/wiki/Qatar_Investment_Authority).[[33\]](https://en.wikipedia.org/wiki/SoFi#cite_note-33) In September 2019, SoFi inked a 20-year deal with the [Los Angeles Rams](https://en.wikipedia.org/wiki/Los_Angeles_Rams) and the [Los Angeles Chargers](https://en.wikipedia.org/wiki/Los_Angeles_Chargers) of the [National Football League](https://en.wikipedia.org/wiki/National_Football_League) (NFL) for the naming rights to [SoFi Stadium](https://en.wikipedia.org/wiki/SoFi_Stadium), in [Inglewood, California](https://en.wikipedia.org/wiki/Inglewood,_California).[[34\]](https://en.wikipedia.org/wiki/SoFi#cite_note-34) The deal, which is worth $30 million annually, is a record for any naming rights for a sports venue.[[35\]](https://en.wikipedia.org/wiki/SoFi#cite_note-35)
-  
+
    ###### 2020
-  
+
    In April 2020, SoFi acquired Salt Lake City payments firm Galileo for $1.2 billion in stock and cash,[[36\]](https://en.wikipedia.org/wiki/SoFi#cite_note-36)[[37\]](https://en.wikipedia.org/wiki/SoFi#cite_note-37) and Hong Kong-based investment app 8 Securities.[[38\]](https://en.wikipedia.org/wiki/SoFi#cite_note-38)
-  
+
    ###### 2021
-  
+
    SoFi announced they will be merging with a [SPAC](https://en.wikipedia.org/wiki/Special-purpose_acquisition_company) in order to go public at a $9 billion dollar valuation at the end of the first quarter of 2021
-  
+
    The company is going public via Chamath Palihapitiya's SPAC Social Capital Hedosophia Holdings Corp. V. The transaction is expected to deliver up to [$2.4 billion](https://www.businesswire.com/news/home/20210107005746/en/SoFi-A-Leading-Next-Generation-Financial-Services-Platform-to-Become-Publicly-traded-via-Merger-with-Social-Capital-Hedosophia) of gross proceeds to SoFi including a $1.2 billion PIPE placing the company at an equity value of $8.65 billion.
-  
+
    [Reference - Financial past Funding & History](https://en.wikipedia.org/wiki/SoFi#History)
-  
+
    
 
 
@@ -487,3 +487,35 @@ Sofi also does not offer conditional trading like TD Ameritrade.
 
 * Why are these technologies appropriate for your solution?
 
+
+
+
+
+**References/Study** - 
+
+Limitations - https://www.nerdwallet.com/reviews/investing/advisors/sofi-automated-investing
+Invest alternative - https://brokerchooser.com/broker-reviews/sofi-invest-review/sofi-invest-alternatives
+Tech Stack - https://www.slintel.com/company/5b8917677c866675e511b0d1/sofi  - tech stack
+TRENDS and INNOVATION - https://thefinancialbrand.com/77228/technology-trends-disrupting-financial-services-banking-future 
+FINANCIALS and business impact - https://sec.report/Document/0001104659-21-037490/  -  
+
+Limitations - https://www.nerdwallet.com/reviews/investing/advisors/sofi-automated-investing
+Invest alternative - https://brokerchooser.com/broker-reviews/sofi-invest-review/sofi-invest-alternatives
+Tech Stack - https://www.slintel.com/company/5b8917677c866675e511b0d1/sofi  - tech stack
+TRENDS and INNOVATION - https://thefinancialbrand.com/77228/technology-trends-disrupting-financial-services-banking-future 
+FINANCIALS and business impact - https://sec.report/Document/0001104659-21-037490/  -  
+https://www.forbes.com/advisor/investing/sofi-ipo/ -  - 
+landscape - https://www.sofi.com/products/ 
+Financials - https://www.dropbox.com/s/ffybqu77l1z4wxu/SoFi%20Investor%20Call%20Deck%20.pdf?dl=0 
+https://www.marketwatch.com/story/five-things-to-know-about-sofi-as-it-goes-public-11615916651
+https://en.wikipedia.org/wiki/SoFi
+https://craft.co/sofi/competitors - 
+https://www.fintechmagazine.com/venture-capital/fintech-profile-oneconnect-bringing-technology-finance
+https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/update-sofi-going-public-via-spac-deal-with-profitability-expected-in-21-62020258
+LImitations of Fintech - https://digital.hbs.edu/platform-digit/submission/sofi-an-illustrative-tale-of-why-fintech-disruption-is-so-difficult/
+
+Limitations - https://www.nerdwallet.com/reviews/investing/advisors/sofi-automated-investing
+Invest alternative - https://brokerchooser.com/broker-reviews/sofi-invest-review/sofi-invest-alternatives
+Tech Stack - https://www.slintel.com/company/5b8917677c866675e511b0d1/sofi  - 
+TRENDS and INNOVATION - https://thefinancialbrand.com/77228/technology-trends-disrupting-financial-services-banking-future 
+FINANCIALS and business impact - https://sec.report/Document/0001104659-21-037490/  -  
