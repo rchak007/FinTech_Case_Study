@@ -119,9 +119,9 @@ SoFi customers, known as members, have access to perks like free coaching from a
 
 “Once you’re a member, you’re always a member because we want you to come back every day,” Noto said. That way, users may be more likely to consider SoFi for an additional financial product once they hit new life-cycle milestones. 
 
-SoFi is led by Noto, who [took over as chief executive three years back](https://www.marketwatch.com/story/twitter-stock-slips-following-anthony-noto-resignation-2018-01-23) after formerly serving as the chief operating officer of Twitter, the co-head of Goldman Sachs’ technology investment banking group, and the chief financial officer of the National Football League. (refereces  https://www.marketwatch.com/story/five-things-to-know-about-sofi-as-it-goes-public-11615916651)
+SoFi is led by Noto, who [took over as chief executive three years back](https://www.marketwatch.com/story/twitter-stock-slips-following-anthony-noto-resignation-2018-01-23) after formerly serving as the chief operating officer of Twitter, the co-head of Goldman Sachs’ technology investment banking group, and the chief financial officer of the National Football League. [Reference](https://www.marketwatch.com/story/five-things-to-know-about-sofi-as-it-goes-public-11615916651) 
 
-SoFi (NYSE:[IPOE](https://seekingalpha.com/symbol/IPOE?source=content_type:react|section:main_content|button:body_link" \o "Social Capital Hedosophia Holdings Corp. V)) is a fast-growing American personal finance company that offers a suite of financial products to consumers directly through its [app](https://apps.apple.com/us/app/sofi-invest-and-track-money/id1191985736) and [website](https://www.sofi.com/). 
+SoFi (NYSE:[IPOE] is a fast-growing American personal finance company that offers a suite of financial products to consumers directly through its [app](https://apps.apple.com/us/app/sofi-invest-and-track-money/id1191985736) and [website](https://www.sofi.com/). 
 
 SoFi has been structured around three operating segments; (1) Lending; (2) Technology platform; and (3) Financial Services. Its lending arm constituted 83% of estimated 2021 fiscal year revenue. This deals with personal, home, and private student loans.
 
@@ -129,7 +129,7 @@ SoFi has been structured around three operating segments; (1) Lending; (2) Techn
 
 ![alt text](operating_segments.png)
 
-The technology platform constitutes primarily Galileo Financial Technologies, acquired by SoFi for[ $1.2 billion](https://techcrunch.com/2020/04/07/another-major-fintech-exit-as-sofi-acquires-banking-and-payments-platform-galileo-for-1-2b/) in April 2020.  SoFi is positioned to benefit from a broader shift toward digital banking through its Galileo platform, which uses application programming interfaces, or APIs, to let companies build financial services offerings. The APIs enable account setup, funding, direct deposits, money transfers, bill payment and other capabilities. (references - https://seekingalpha.com/article/4406011-sofi-growing-fintech-company)
+The technology platform constitutes primarily Galileo Financial Technologies, acquired by SoFi for[ $1.2 billion](https://techcrunch.com/2020/04/07/another-major-fintech-exit-as-sofi-acquires-banking-and-payments-platform-galileo-for-1-2b/) in April 2020.  SoFi is positioned to benefit from a broader shift toward digital banking through its Galileo platform, which uses application programming interfaces, or APIs, to let companies build financial services offerings. The APIs enable account setup, funding, direct deposits, money transfers, bill payment and other capabilities. [Reference]( https://seekingalpha.com/article/4406011-sofi-growing-fintech-company)
 
 ## Sofi's Technology Stack
 
@@ -174,7 +174,7 @@ The company has a $200 million annual marketing budget so this forms just 15% of
 
 ![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\sofi_stadium.jpg)
 
-References - https://seekingalpha.com/article/4406011-sofi-growing-fintech-company
+[References]( https://seekingalpha.com/article/4406011-sofi-growing-fintech-company) - 
 
 
 
@@ -359,17 +359,17 @@ While the bulk of SoFi’s revenue comes from lending, the company expects the b
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth4 CAGR1.jpg)
+![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth4_CAGR1.jpg)
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth5 EBITDA  CAGR.jpg)
+![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth5_EBITDA_CAGR.jpg)
 
 
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth6 Proj.jpg)
+![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth6_Proj.jpg)
 
 
 
