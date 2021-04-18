@@ -465,6 +465,14 @@ Sofi also does not offer conditional trading like TD Ameritrade.
 
 
 
+##### Decentralized Finance (DeFi)
+
+The biggest next-gen technology is going to be DeFi - decentralized Finance.
+
+Very shortly we will financialize every single asset possible, we will financialize our home, our cars, our jewelry, our art, we will financialize every random thing, and even our career, and by monetizing it and financializing it, we can borrow against it, we can trade it, we can pull forward value into the future against it etc.  So this  will go right up into Sofi's alley if they get ready for this future next-gen technology. There is already  lot being developed with Ethereum and ERC20  and smart contracts. Sofi need to take a lead to get into these spaces.  [Reference - @15:24 for 5 mins](https://www.youtube.com/watch?v=hEVLyPwJAZQ&t=1194s)
+
+
+
 * Why do you think that offering this product or service would benefit the company?
 
   Offering  the below services that are now lacking (identified in earlier section) should help in bringing more customers and to  keep existing ones:
@@ -479,13 +487,71 @@ Sofi also does not offer conditional trading like TD Ameritrade.
 
   Offering advanced trading charts for technical analysis. 
 
+  But the biggest benefit which is still little ways out is getting ready for Decentralized Finance. 
+
   
 
 * What technologies would this additional product or service utilize?
 
-  
-
 * Why are these technologies appropriate for your solution?
+
+###### What are the main advantages of DeFi?
+
+Traditional finance relies on institutions such as banks to act as intermediaries, and courts to provide arbitration. 
+
+DeFi applications do not need any intermediaries or arbitrators. The code specifies the resolution of every possible dispute, and the users maintain control over their funds at all times. This reduces the costs associated with providing and using these products and allows for a more frictionless financial system.
+
+As these new financial services are deployed on top of blockchains, single points of failure are eliminated. The data is recorded on the blockchain and spread across thousands of [nodes](https://academy.binance.com/en/articles/what-are-nodes), making censorship or the potential shutdown of a service a complicated undertaking. 
+
+Since the frameworks for DeFi applications can be built in advance, deploying one becomes much less complicated and much more secure.
+
+Another significant advantage of such an open ecosystem is the ease of access for individuals who otherwise wouldn’t have access to any financial services. Since the traditional financial system relies on the intermediaries making a profit, their services are typically absent from locations with low-income communities. However, with DeFi, the costs are significantly reduced, and low-income individuals can also benefit from a broader range of financial services.
+
+###### What are the potential use cases for DeFi?
+
+All the below use cases will fall right into Sofi's domains.
+
+Borrowing & Lending
+
+Open lending protocols are one of the most popular types of applications that are part of the DeFi ecosystem. Open, decentralized borrowing and lending have many advantages over the traditional credit system. These include instant transaction settlement, the ability to collateralize digital assets, no credit checks, and potential standardization in the future. 
+
+Since these lending services are built on public blockchains, they minimize the amount of trust required and have the assurance of cryptographic verification methods. Lending marketplaces on the blockchain reduce counterparty risk, make borrowing and lending cheaper, faster, and available to more people.
+
+
+
+Monetary banking services
+
+As DeFi applications are, by definition, financial applications, monetary banking services are an obvious use case for them. These can include the issuance of [stablecoins](https://academy.binance.com/en/glossary/stablecoin), mortgages, and insurance.
+
+As the blockchain industry is maturing, there is an increased focus on the creation of stablecoins. They are a type of cryptoasset that is usually pegged to a real-world asset but can be transferred digitally with relative ease. As cryptocurrency prices can fluctuate rapidly at times, decentralized stablecoins could be adopted for everyday use as digital cash that is not issued and monitored by a central authority. 
+
+Largely because of the number of intermediaries needing to be involved, the process of getting a mortgage is expensive and time-consuming. With the use of smart contracts, underwriting and legal fees may be reduced significantly.
+
+Insurance on the blockchain could eliminate the need for intermediaries and allow the distribution of risk between many participants. This could result in lower premiums with the same quality of service. 
+
+If you’d like to read more on the subject of blockchain and banking, we recommend reading our article [How Blockchain Technology Will Impact the Banking Industry](https://academy.binance.com/en/articles/how-blockchain-technology-will-impact-the-banking-industry).
+
+
+
+Decentralized Marketplaces
+
+This category of applications can be challenging to assess, as it is the segment of DeFi that gives the most room for financial innovation. 
+
+Arguably, some of the most crucial DeFi applications are [decentralized exchanges (DEXes)](https://academy.binance.com/en/glossary/decentralized-exchange). These platforms allow users to trade digital assets without the need for a trusted intermediary (the [exchange](https://academy.binance.com/en/glossary/exchange)) to hold their funds. The trades are made directly between user wallets with the help of smart contracts. 
+
+Since they require much less maintenance work, decentralized exchanges typically have lower trading fees than centralized exchanges. 
+
+Blockchain technology may also be used to issue and allow ownership of a wide range of conventional financial instruments. These applications would work in a decentralized way that cuts out custodians and eliminates single points of failure.
+
+Security token issuance platforms, for example, may provide the tools and resources for issuers to launch tokenized securities on the blockchain with customizable parameters.  
+
+Other projects may allow the creation of derivatives, synthetic assets, decentralized prediction markets, and many more.
+
+
+
+Not everything benefits from decentralization. Finding the use cases that are most suitable for the characteristics of blockchains is crucial in building a useful stack of open financial products.
+
+[Reference](https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi)
 
 
 
@@ -519,3 +585,7 @@ Invest alternative - https://brokerchooser.com/broker-reviews/sofi-invest-review
 Tech Stack - https://www.slintel.com/company/5b8917677c866675e511b0d1/sofi  - 
 TRENDS and INNOVATION - https://thefinancialbrand.com/77228/technology-trends-disrupting-financial-services-banking-future 
 FINANCIALS and business impact - https://sec.report/Document/0001104659-21-037490/  -  
+
+DeFi - https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi
+
+financialize every single asset possible @15:24 for 5 mins- https://www.youtube.com/watch?v=hEVLyPwJAZQ&t=1194s
