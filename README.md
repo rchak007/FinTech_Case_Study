@@ -135,11 +135,11 @@ The technology platform constitutes primarily Galileo Financial Technologies, ac
 
 185 technologies across 19 categories that Sofi uses. Here's few:
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\sofi_tech_stack3.jpg)
+![alt text](tech_stack3.jpg)
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\sofi_tech_stack4.jpg)
+![alt text](tech_stack4.jpg)
 
 [reference](https://www.slintel.com/company/5b8917677c866675e511b0d1/sofi)  -  
 
@@ -158,9 +158,13 @@ A decade ago, SoFi started out as a [student loan](https://nam03.safelinks.prote
 
 Today, SoFi wants to help its customers with every ***financial step*** of their journey. It has therefore branched out into **[numerous financial activities](https://www.sofi.com/products/)**, providing:
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\sofiProducts1.jpg)
+![alt  text](Products1.jpg)
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\SofiProducts2.jpg)
+
+
+
+
+![alt text](Products2.jpg)
 
 [Reference](https://www.sofi.com/products/)  - 
 
@@ -172,7 +176,11 @@ The SoFi stadium, the home of the Los Angeles Rams and the Chargers, has been a 
 
 The company has a $200 million annual marketing budget so this forms just 15% of this and could help raise the company's profile.
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\sofi_stadium.jpg)
+
+
+
+
+![alt text](stadium.jpg)
 
 [References]( https://seekingalpha.com/article/4406011-sofi-growing-fintech-company) - 
 
@@ -211,7 +219,7 @@ As opposed to technology taking a secondary position, supporting only the proces
 
 Atos developed a very helpful Global Banking Technology Radar that provides a perspective on the technologies anticipated over the next five years, the business impact of the technologies and the timing of integration. We provided a short description of each technology for better understanding.
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\10_disruptive_tech.jpg)
+![alt text](disruptive_tech.jpg)
 
 
 
@@ -347,29 +355,29 @@ While the bulk of SoFi’s revenue comes from lending, the company expects the b
 
 [Reference](https://www.dropbox.com/s/ffybqu77l1z4wxu/SoFi%20Investor%20Call%20Deck%20.pdf?dl=0)  -  
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth1.jpg)
+![alt text](finance_growth1.jpg)
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth2.jpg)
+![alt text](finance_growth2.jpg)
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth3.jpg)
+![alt text](finance_growth3.jpg)
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth4_CAGR1.jpg)
+![alt text](finance_growth4_CAGR1.jpg)
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth5_EBITDA_CAGR.jpg)
+![alt text](finance_growth5_EBITDA_CAGR.jpg)
 
 
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\finance_growth6_Proj.jpg)
+![alt text](finance_growth6_Proj.jpg)
 
 
 
@@ -385,7 +393,7 @@ As a public company, SoFi should be able to more fully monetise its shares for b
 
 
 
-![](C:\Users\chakravartiraghavan\FinTech\Github\FinTech_Case_Study\invest_alternatives.jpg)
+![alt text](invest_alternatives.jpg)
 
 ## Recommendations
 
